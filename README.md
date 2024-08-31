@@ -3,3 +3,4 @@ this will cater to different type of rest Template to be used, We can pass the r
 Any types of request params and headers can be passed
 Future scope of this is we can do ApiTracking for all the api's hit through this on amazon aws
 It also calculates the latency of the API, i.e, the time taken by api to execute
+JUnit TestCases are written for this with maximum code coverage
